@@ -1,4 +1,4 @@
-# UZH Deep Learning Fall 2024
+# UZH Deep Learning Spring 2024
 
 ## Important Notice
 
